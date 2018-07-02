@@ -25,3 +25,6 @@ wp-content/plugins/hello.php
 /readme.html
 /sitemap.xml
 /sitemap.xml.gz
+
+# Mac OS
+.DS_Store
